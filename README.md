@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGRrzhvKM0/7wgXogGrn8Cg_IcG5C_AKQ/edit?utm_content=DAGRrzhvKM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://msutanu78.io)
+[![MasterHead]([https://www.canva.com/design/DAGRrzhvKM0/7wgXogGrn8Cg_IcG5C_AKQ/edit?utm_content=DAGRrzhvKM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://media.licdn.com/dms/image/v2/D5616AQEC3wCMD18xhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727193961492?e=1733356800&v=beta&t=zPt6gm4FXmMKwaX_NJ0rdfGuC6LFBBfYtWE-gbD8c78))](https://msutanu78.io)
 
 <h1 align="center">Hi 👋, I'm Sutanu Maity 😇</h1>
 <h3 align="center">Passionate about technology and problem-solving, aiming to grow as a developer by working on complex projects that require creative and efficient solutions, while staying up-to-date with the latest industry trends.</h3>
