@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://maitysutanu7.blogspot.com](https://maitysutanu7.blogspot.com)
 
-- 💬 Ask me about **C, Java, React.js, MySQL**
+- 💬 Ask me about **C, Java, JDBC, JSP, Servlet, React.js, MySQL**
 
 - 📫 How to reach me **maitysutanu7@gmail.com**
 
