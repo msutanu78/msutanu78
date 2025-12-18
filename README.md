@@ -37,5 +37,5 @@
 
 <h3 align="center"> ❤ Thank You For Visiting My Github Profile ❤ </h3>
 
-<h4 align="center"> ⭐ **Enjoyed my projects?** Don’t forget to follow me! ⭐ </h3>
+<h4 align="center"> ⭐ ** Enjoyed my projects? ** Don’t forget to follow me! ⭐ </h3>
 
