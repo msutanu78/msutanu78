@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sutanumaity14" target="blank"><img src="https://img.shields.io/twitter/follow/@sutanumaity14?logo=twitter&style=for-the-badge" alt="@sutanumaity14" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently building projects on **MERN Stack**
 
 - 📝 I regularly write articles on [https://maitysutanu7.blogspot.com](https://maitysutanu7.blogspot.com)
 
-- 💬 Ask me about **C, Java, JDBC, JSP, Servlet, React.js, MySQL**
+- 💬 Ask me about **Java, React.js, Node.js, MongoDB, MySQL**
 
 - 📫 How to reach me **maitysutanu7@gmail.com**
 
@@ -35,4 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msutanu78&" alt="msutanu78" /></p>
 
-<h3 align="center"> ❤Thank You For Visiting My Github Profile❤ </h3>
+<h3 align="center"> ❤ Thank You For Visiting My Github Profile ❤ </h3>
+
+<h4 align="center"> ⭐ **Enjoyed my projects?** Don’t forget to follow me! ⭐ </h3>
+
